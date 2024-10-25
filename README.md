@@ -4,4 +4,4 @@
 ![2024-08-20 18_58_25-Window](https://github.com/user-attachments/assets/03d3ba93-e6a4-41c7-b28b-2cc94138ce38)
 ![2024-08-20 18_58_18-Window](https://github.com/user-attachments/assets/a52a5e00-8d04-4d82-b708-6eaba5677515)
 
-**Credits to https://github.com/brandon-vo/book-with-me** 
+**Credits to https://github.com/brandon-vo/book-with-me for giving me the idea behind it! :)** 
