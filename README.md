@@ -21,9 +21,6 @@ Inspired by the concept from [Book-with-Me](https://github.com/brandon-vo/book-w
 
 Feel free to fork this repository and submit pull requests with improvements or bug fixes. For major changes, please open an issue first to discuss your ideas.
 
-### License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ### Showcase
 ![imageedit_5_8314701808](https://github.com/user-attachments/assets/439c4759-19d2-40a7-a27c-39c41d37dad7)
